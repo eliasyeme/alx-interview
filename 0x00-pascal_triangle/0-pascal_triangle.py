@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""Calculate pascal triangle"""
 def pascal_triangle(n):
     result = [[1]]
 
