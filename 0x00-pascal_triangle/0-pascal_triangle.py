@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Calculate pascal triangle"""
+"""Pascal triangle"""
 def pascal_triangle(n):
+    """Calculate pascals triangle"""
     result = [[1]]
 
     if n <= 0:
